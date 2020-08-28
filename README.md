@@ -1,2 +1,2 @@
-# orbiit.github.io
+# JSschooI.github.io
 Github pages
